@@ -247,6 +247,10 @@ h2{
     padding: 12px;
   }
 
+  h2{
+    font-size: 20px;
+  }
+
   #question {
     font-size: 17px;
   }
