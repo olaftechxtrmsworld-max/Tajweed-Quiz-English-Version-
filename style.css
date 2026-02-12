@@ -274,6 +274,10 @@ h2{
   width: 90%;
 }
 
+#foot{
+  font-size: 15px
+}
+
 }
 
 
@@ -298,6 +302,10 @@ h2{
   
   #questcontainer {
   width: 90%;
+}
+
+#foot{
+  font-size: 18px
 }
 
 }
